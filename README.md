@@ -5,8 +5,8 @@ The code is semi-flexible in that it was originially written to perform an MD an
 
 This project includes the following documents:
 1. "Bible-FA-results.zip" contains the output of R's summary statistics for the original factor analysis of the Bible, and barplots of the resulting factor scores for each of the three factors inferred in the factor analysis
-2. "MD-code" contains all code used for MD analysis (all in R, except running the Tagger from Unix command line)
-3. "MD-code.txt" download code in .txt file
+<br>2. "MD-code" contains all code used for MD analysis (all in R, except running the Tagger from Unix command line)
+<br>3. "MD-code.txt" download code in .txt file
 4. "NIV-Bible.txt" the version of the New International Version Bible used in the original MD analysis
 5. "Tagged-Bible-Books.zip" folder containing the POS-tagged versions of the 66 books of the NIV-Bible.txt file
 
